@@ -1,11 +1,11 @@
-const Hello = () => {
+const King = () => {
     return (
         <>
             <div>
-                헬로우
+                킹화이팅
             </div>
         </>
         )
 }
 
-export default Hello;
+export default King;
