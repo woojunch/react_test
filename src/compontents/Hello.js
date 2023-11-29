@@ -1,11 +1,11 @@
-const Footer123 = () => {
+const Hello = () => {
     return (
         <>
             <div>
-                푸터화이팅
+            Hello
             </div>
         </>
         )
 }
 
-export default Footer123;
+export default Hello;
