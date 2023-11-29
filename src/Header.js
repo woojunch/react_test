@@ -2,7 +2,7 @@ const Header = () => {
     return (
         <>
             <div>
-                헤더
+                헤더화이팅
             </div>
         </>
         )
