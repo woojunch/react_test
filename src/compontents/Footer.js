@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <>
             <div>
-                푸터좋아요
+                푸터왕왕왕
             </div>
         </>
         )
