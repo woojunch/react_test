@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <>
             <div>
-                푸터왕왕왕2222
+                푸터왕왕왕
             </div>
         </>
         )
